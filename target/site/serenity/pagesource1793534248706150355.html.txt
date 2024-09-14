@@ -1,0 +1,4475 @@
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- TWITTER CARD -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@Banistmo">
+  <meta name="twitter:creator" content="@Banistmo">
+  <meta name="twitter:image" content="https://www.banistmo.com/wps/wcm/connect/www.banistmo.com11237/a3c65e7a-a424-4756-8ccd-b1c397b91146/TwiterCard.jpg?CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-a3c65e7a-a424-4756-8ccd-b1c397b91146-o-DktVk&amp;MOD=AJPERES">
+  <!-- OPENGRAPH -->
+  <meta property="og:image" content="https://www.banistmo.com/wps/wcm/connect/www.banistmo.com11237/c1ec3a0c-ba62-47e0-948a-85aa22672277/OG.jpg?CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-c1ec3a0c-ba62-47e0-948a-85aa22672277-o-Dl5z0&amp;MOD=AJPERES">
+  <!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+	 dyn-cs:* URIs are resolved using the values within the 'wp_dynamicContentSpots_85' theme module. -->
+  <link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/sp/mashup:ra:collection?soffset=0&amp;eoffset=21&amp;themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1719540336887&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=bco_personas_css__1.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_theme_portal_edit_85__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=bco_header_css__1.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=bco_fonts__1.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_mark_cookiePopUp__0.0.1%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=css_wcm_custom__0.0%3Ahead_css&amp;entry=bco_transversal_css__1.0%3Ahead_css&amp;entry=wp_analytics_aggregator__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/sp/mashup:ra:collection?soffset=0&amp;eoffset=10&amp;themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1719540327587&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wp_analytics_tags__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css&amp;deferred=true"><script src="https://connect.facebook.net/signals/config/1638640773132669?v=2.9.167&amp;r=stable&amp;domain=www.banistmo.com&amp;hme=da9a399065fb1c492026018b9e54864148adfb49d800f41752428fb7b59190f8&amp;ex_m=69%2C118%2C104%2C108%2C60%2C4%2C97%2C68%2C16%2C94%2C86%2C50%2C53%2C168%2C171%2C183%2C179%2C180%2C182%2C29%2C98%2C52%2C75%2C181%2C163%2C166%2C176%2C177%2C184%2C127%2C40%2C34%2C139%2C15%2C49%2C190%2C189%2C129%2C18%2C39%2C1%2C42%2C64%2C65%2C66%2C70%2C90%2C17%2C14%2C93%2C89%2C88%2C105%2C51%2C107%2C38%2C106%2C30%2C91%2C26%2C164%2C167%2C136%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C56%2C61%2C63%2C73%2C99%2C27%2C74%2C9%2C8%2C78%2C47%2C21%2C101%2C100%2C102%2C95%2C10%2C20%2C3%2C19%2C83%2C55%2C81%2C33%2C72%2C0%2C92%2C32%2C80%2C85%2C46%2C45%2C84%2C37%2C5%2C87%2C79%2C43%2C35%2C82%2C2%2C36%2C62%2C41%2C103%2C44%2C77%2C67%2C109%2C59%2C58%2C31%2C96%2C57%2C54%2C48%2C76%2C71%2C24%2C110" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-D4YYWT809S&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5DTRK5N"></script><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm","pagebuilder":"/wps/themeModules/modules/pagebuilder/js","portalclient":"/wps/themeModules/modules/portalclient/js","asa":"/wps/themeModules/modules/asa/js","contentmapping":"/wps/themeModules/modules/contentmapping/js","federation":"/wps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_2G9I1K41NO8490QLEAGI8QBKK7"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41NO8490QLEAGI8QBKK7","Z6_2G9I1K41NO8490QLEAGI8QBKK7","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_38G2HA80N87M00AB62GT7520B5"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_38G2HA80N87M00AB62GT7520B5','Z6_2G9I1K41NO8490QLEAGI8QBKK7'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='/wps/portal';wpModules.state.page.protectedPath='/wps/myportal';wpModules.state.page.publicPath='/wps/portal';})();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1719540333719&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=bco_jquery_js__1.0%3Ahead_js&amp;entry=wp_mark_cookiePopUp__0.0.1%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/wps/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1674171396000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;deferred=true"><link id="Svrf2Jzb.eE" rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/"><script type="text/javascript">(function() {
+	var element = document.getElementById("Svrf2Jzb.eE");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><link rel="alternate" id="head_markup_deferred" href="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_layout_windowstates__0.0%3Ahead_markup&amp;deferred=true"><link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/sp/mashup:ra:collection?soffset=0&amp;eoffset=4&amp;themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;portlet=true&amp;mime-type=text%2Fcss&amp;lm=1674171396000&amp;entry=wp_one_ui_303__0.0%3Ahead_css" type="text/css"><!--[if IE 7]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie lotusui_ie7";</script>
+<![endif]--> 
+<!--[if IE 8]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie8";</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie9";</script>
+<![endif]-->
+<base href="https://www.banistmo.com/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/">
+<title>Accede a tu Banca en Línea - Banistmo Panamá</title>
+
+<meta content="Accede a tu Banca en Línea y conoce más de Banistmo para Personas y Empresas. Abre tu Cuenta Express, Ahorros, Plazo Fijo, Préstamos personales" name="description"><meta content="index, follow" name="robots">
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzJHOUkxSzQxTk84NDkwUUxFQUdJOFFCS0s3/">
+
+
+<link href="/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/dav/fs-type1/themes/BanistmoPersonas/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<base href="https://www.banistmo.com/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/">
+<title>Accede a tu Banca en Línea - Banistmo Panamá</title>
+
+<meta content="Accede a tu Banca en Línea y conoce más de Banistmo para Personas y Empresas. Abre tu Cuenta Express, Ahorros, Plazo Fijo, Préstamos personales" name="description"><meta content="index, follow" name="robots">
+	<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzJHOUkxSzQxTk84NDkwUUxFQUdJOFFCS0s3/">
+	<link rel="bookmark" title="Accede a tu Banca en Línea - Banistmo Panamá" href="/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzJHOUkxSzQxTk84NDkwUUxFQUdJOFFCS0s3/" hreflang="es">
+
+
+<link href="/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/dav/fs-type1/themes/BanistmoPersonas/images/favicon-grupo.ico" rel="shortcut icon" type="image/x-icon">
+<base href="https://www.banistmo.com/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/">
+<link rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/personas" hreflang="es-CO">
+
+	        <link rel="canonical" href="https://www.banistmo.com/wps/portal/banistmo/personas">
+	    
+<meta property="og:title" content="Accede a tu Banca en Línea - Banistmo Panamá">
+<meta property="og:site_name" content="Banistmo">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.banistmo.com/wps/portal/banistmo/personas">
+<meta property="og.locale" content="es_CO">
+<script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+  </script>
+
+  <!-- Hotjar Tracking Code for www.banistmo.com -->
+  <script>
+
+    let host = location.hostname;
+    if (host === 'www.banistmo.com') {
+      (function (h, o, t, j, a, r) {
+        h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+        h._hjSettings = { hjid: 751516, hjsv: 6 };
+        a = o.getElementsByTagName('head')[0];
+        r = o.createElement('script'); r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+      })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    }
+
+  </script><script async="" src="https://static.hotjar.com/c/hotjar-751516.js?sv=6"></script>
+  <!-- END Hotjar  -->
+  <!-- Google Tag Manager -->
+  <script defer="">
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-5DTRK5N");
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const closeButton = document.querySelector(".close");
+      const chatButton = document.querySelector(".btn-chat");
+
+      if (closeButton) {
+        closeButton.addEventListener("click", function () {
+          chatButton.style.display =
+            chatButton.style.display === "none" ? "block" : "none";
+          closeButton.classList.toggle("open");
+        });
+      }
+    });
+  </script>
+<script async="" src="https://script.hotjar.com/modules.6e8cbd39caed17f0d1c0.js" charset="utf-8"></script></head>
+
+<body class="toolbar-closed">
+  <div class="wpthemeFrame">
+    <header role="banner" tabindex="-1" aria-label="Main header">
+      </header>
+  </div>
+  <!-- end frame class="wpthemeMainContent" -->
+  <div role="main" tabindex="-1" aria-label="IBM WebSphere Portal" id="main-content">
+    <!-- required - do not remove -->
+    <div style="display:none" id="portletState">{}</div><div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden">
+      <div class="wpthemeInner">
+        <!--
+Copyright 2014  IBM Corp. 
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0 
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+-->
+
+<div class="hiddenWidgetsDiv">
+	<!-- widgets in this container are hidden in the UI by default -->
+	<div class="component-container ibmDndRow hiddenWidgetsContainer wpthemeCol12of12 wpthemeFull id-Z7_0O9D02RJBBIV4KGPLRR23LBIT5" name="ibmHiddenWidgets"></div><div style="clear:both"></div>
+</div>
+<!-- this layout has one full width row on top with two columns underneath of equal width -->
+<div class="fullWidthContainer">
+
+   
+        <div class="component-container fullWidthColumn wpthemeCol ibmDndColumn id-Z7_B6DRRJ7CKPL8QBR3J659KFFI64" name="ibmMainContainer"><div class="component-control id-Z7_2G9I1K41NO8490QLEAGI8QBK25"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            <link href="/wps/wcm/connect/www.banistmo.com11237/92e2a500-1006-469d-8143-32bbc0609026/styles-general_act_18_05_2024.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-92e2a500-1006-469d-8143-32bbc0609026-p0IQxpg" type="text/css" rel="stylesheet">
+
+
+  <nav class="navbar bg-black" id="menu-top">
+    <div class="container">
+        <ul class="nav navbar-nav">
+            <li><a href="/wps/portal/banistmo/personas" class="active">Personas</a></li>
+            <li><a href="/wps/portal/banistmo/pymes">Pymes</a></li>
+            <li><a href="/wps/portal/banistmo/empresas">Empresas</a></li>
+            <li><a href="/wps/portal/banistmo/acerca-de">Acerca de nosotros</a></li>
+        </ul>
+
+<ul class="nav navbar-nav" style="float: right;">
+<li style="background-color:#FDDA24;">
+
+<a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="" style="color:#292929;" id="Abre tu cuenta"> <b style="font-family:OpenSans-bold;">Abre tu cuenta</b></a></li>
+
+
+<li>
+
+<a href="/wps/portal/banistmo/personas/productos-y-servicios/canales-de-atencion" id="Canales de atención">  Canales de atención</a></li>
+</ul>
+
+
+    </div>
+</nav>
+
+<div id="main-menu">
+
+    <div class="row-fluid">
+        <div class="navbar navbar-default menu">
+
+            <!-- icon-bar responsive -->
+            <div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse-grid">
+                    <span class="icon-bar"></span><span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <!-- icon-bar responsive -->
+
+            <div class="navbar-collapse collapse" id="navbar-collapse-grid">
+
+                <!-- menú -->
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a class="navbar-brand" href="/wps/portal/banistmo/personas">
+<img src="/wps/wcm/connect/www.banistmo.com11237/f0f014f2-9c5f-44c4-b47a-114aa6f7d6ad/Logo-Banistmo.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f0f014f2-9c5f-44c4-b47a-114aa6f7d6ad-oIUWl0t" alt="Banistmo" width="135" height="23" style="margin-top:0px;" rel="preload" as="image" fetchpriority="high" loading="lazy">
+                        </a>
+                    </li>
+
+                    <li class="dropdown menu-fw"><a href="/wps/portal/banistmo/personas"><strong>Inicio</strong></a>
+                    </li>
+
+                    <li class="dropdown menu-fw"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Productos &amp;
+                            Servicios</a>
+                        <ul class="dropdown-menu">
+                            <li class="drop-submenu">
+                                <div class="col-sm-6">
+                                    <h2>Productos &amp; Servicios</h2>
+                                   
+ <div class="col-sm-6" style="margin-top:-15px;">
+ <ul>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos">Depósitos</a>
+                                        </li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/tarjetas-debito">Tarjetas de Débito</a></li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/tarjetas-credito">Tarjetas de Crédito</a></li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/prestamos">Préstamos</a>
+                                        </li>
+
+                                         <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/seguros-personales">Seguros y Asistencias</a></li>
+                                      
+                                    </ul>
+</div>
+
+ <div class="col-sm-6" style="margin-top:-15px;">
+                                    <ul>
+                                       
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/galeria-inmobiliaria">Galería
+                                                Inmobiliaria</a></li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/bienes-reposeidos">Bienes Reposeídos</a></li>
+
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/pagos">Pagos</a></li>
+                                        
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/transferencias-internacionales">Transferencias
+                                                Internacionales</a></li>
+                                       
+                                    </ul>
+
+</div>
+                                </div>
+
+
+<div class="col-sm-3">
+                                    <h2>Programas &amp; Beneficios</h2>
+                                    <ul>
+                                        
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/catalogo-regalate">Puntos Regálate</a></li>
+
+ <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/promociones">Promociones</a></li>
+
+<li><a href="/wps/portal/banistmo/personas/productos-y-servicios/asalariados">Asalariados</a></li>
+
+<li><a href="/wps/portal/banistmo/personas/productos-y-servicios/jubilados">Jubilados</a></li>
+                                    </ul>
+                                </div>
+
+
+
+
+                                <div class="col-sm-3">
+                                    <h2>Segmentos</h2>
+                                    <ul>
+<li><a href="/wps/portal/banistmo/personas/impulsa">Impulsa</a></li>
+
+                                        
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/plus">Plus</a>
+                                        </li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/preferencial">Preferencial</a>
+                                        </li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/banca-privada">Banca
+                                                Privada</a></li>
+
+ <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/banikids">Banikids</a>
+                                    </li></ul>
+                                </div>
+
+                                <div class="col-sm-12 shortcut">
+                                    <h2>Canales para tu servicio</h2>
+                                    <ul>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/cajeros">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/97d66c78-2962-4304-a5b6-8866b569be7a/Cajeros.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-97d66c78-2962-4304-a5b6-8866b569be7a-oDRnVM7" alt="" width="48" height="48"> Cajeros
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/banistmo-app">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/9378dc01-73ba-41e3-89f3-f3d96393fcae/Banistmo-app.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-9378dc01-73ba-41e3-89f3-f3d96393fcae-oDRnGtO" alt="" width="48" height="48"> Banistmo App <span>Personas</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-virtual-personas">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/39a50d57-bdcf-422a-b8f6-b8e63b2a9f27/BLP.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-39a50d57-bdcf-422a-b8f6-b8e63b2a9f27-oDRnPY8" alt="" width="48" height="48"> Banca en Línea <span>Personas</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-telefonica-personas">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/a44949b7-622c-4c1b-a040-3ab7485711ac/Centro-de-atencion-al-cliente.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-a44949b7-622c-4c1b-a040-3ab7485711ac-oDRo0ZF" alt="" width="48" height="48"> Centro de Atención <span>al Cliente</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-fisica">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/1f188819-a31e-4573-9f2c-d95e51857fee/Sucursales.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-1f188819-a31e-4573-9f2c-d95e51857fee-oDRnZV." alt="" width="48" height="48"> Sucursales
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/comercios-autorizados">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/c95e502c-788b-40e4-a43b-a523fdc8b1e2/Comercios-Autorizados.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-c95e502c-788b-40e4-a43b-a523fdc8b1e2-oDRnSCq" alt="" width="48" height="48"> Comercios Autorizados
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <!-- end menú -->
+
+                <!-- search , buttons -->
+                <div class="navbar-right">
+                    <form class="navbar-form" action="/wps/portal/banistmo/acerca-de/buscador-de-contenido">
+                        <div class="search-component">
+                            <img src="/wps/wcm/connect/www.banistmo.com11237/fb15b3f5-ccc8-45f7-8e85-6e90ba3e0ffb/icon-search.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-fb15b3f5-ccc8-45f7-8e85-6e90ba3e0ffb-oE4aEHv" alt="" width="24" height="24">
+                            <input type="text" id="termino" name="termino" class="form-control btn-search" placeholder="Buscar">
+                        </div>
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/servicios-digitales" class="btn btn-default">Servicios Digitales <img src="/wps/wcm/connect/www.banistmo.com11237/42209645-2696-4a41-9055-b31c5e9981da/hand-button.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-42209645-2696-4a41-9055-b31c5e9981da-oIUWKv9" alt="" width="24" height="24"> </a>
+                        <a href="#" target="null" onclick="open(&quot;https://personas.banistmo.com&quot;, &quot;Banistmo&quot;, &quot;status=yes,scrollbars=yes,resizable=yes,fullscreen=yes&quot;);" class="btn btn-primary" style="background: #fdda24;">Banca en Línea Personas <img src="/wps/wcm/connect/www.banistmo.com11237/bca10970-b270-49c3-b359-7051a6020a21/lock.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-bca10970-b270-49c3-b359-7051a6020a21-oIUX1Iu" alt="" width="24" height="24"> </a>
+                    </form>
+                </div>
+                <!-- end search , buttons -->
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41NG4H106I3K5S2S00Q5"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41N8L8D06U03K2U51GF6"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style type="text/css">
+
+@media (min-width: 768px){
+div.desktop {
+ display: contents;
+}
+
+}
+
+p {
+    margin: 0 0 0px;
+}
+
+</style>
+
+</p><div class="desktop">
+
+<div style="padding-top: 25px;"></div>
+
+</div><p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41N88TB06277P2N53IN0"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style>
+
+p {
+    margin: 0 0 0px;
+}
+
+h2.titulo-como-tu {
+font-size: 48px; 
+line-height: 52px;
+margin-bottom: 0px;
+}
+
+h3.titulo-como-tu {
+font-size: 32px; 
+line-height: 36px;
+margin-bottom: 20px;
+margin-top: 5px;
+}
+
+    #banner .texto {
+        text-align: center;
+    }
+
+    @media (min-width: 768px) {
+        #banner .texto{
+            text-align: left;
+        }
+
+           h2.titulo-como-tu
+       {
+       margin-top: 40px;
+       }
+
+        b.negrita {
+        font-family: 'CIBFontSans-Bold';
+    }
+    
+    }
+
+ #banner{
+           margin-top:25px; margin-bottom:25px;
+        }
+    
+</style>
+</p><div id="banner" class="container">
+    <div class="row">
+
+ <div class="col-md-6">
+            <img src="/wps/wcm/connect/www.banistmo.com11237/332592f7-1855-41f6-9c27-a70ae618eb23/Banner-Como-tu-Sostenibilidad.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-332592f7-1855-41f6-9c27-a70ae618eb23-p5Iv6O4" alt="COMO TÚ" class="img-responsive" loading="lazy" rel="preload" as="image" fetchpriority="high">
+        </div>
+
+        <div class="col-md-6 texto" style="padding-bottom: 25px;">
+            <h2 class="titulo-como-tu">COMO TÚ</h2>
+
+            <h3 class="titulo-como-tu">Creemos en el compromiso con nuestro presente y futuro.</h3>
+
+            <p style="font-size: 18px;line-height: 22px;">Con la Cuenca del Canal, desde el corazón.</p>
+
+            <p class="boton"><a class="btn btn-primary" href="/wps/portal/banistmo/pymes/campanas/como-tu" style="margin-top:30px;">Descubre más</a></p>
+          
+        </div>
+
+    </div>
+</div>
+<p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41N88TB06277P2N53G54"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            <link rel="stylesheet" href="/wps/wcm/connect/www.banistmo.com11237/033d51f7-aec6-4bd0-a101-f9ffa880701c/owl.carousel.min.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-033d51f7-aec6-4bd0-a101-f9ffa880701c-oAJoIPn">
+<script type="text/javascript" src="/wps/wcm/connect/www.banistmo.com11237/759f1723-4494-4a1a-8495-78815a22e36d/owl.carousel.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-759f1723-4494-4a1a-8495-78815a22e36d-oAJoRc6"></script>
+<link rel="stylesheet" href="/wps/wcm/connect/www.banistmo.com11237/613fc46c-8465-4cfa-b1aa-3abd781da4ae/home-carousel.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-613fc46c-8465-4cfa-b1aa-3abd781da4ae-oEEsy9p">
+
+<div id="home-carousel" class="">
+    <div class="container">
+        <div class="owl-container">
+            <div class="owl-carousel owl-theme owl-loaded owl-drag"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-4560px, 0px, 0px); transition: 1s; width: 12540px;"><div class="owl-item cloned" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#FFFFFF;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Mastercard Pasión">
+<h2>Elige tu pasión, nosotros te haremos disfrutarla</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Tu <b class="negrita">Tarjeta de Crédito Mastercard</b> te lleva a conocer nuevas experiencias.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/campanas/pasion-mastercard">Solicítala aquí</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/29a9768b-e58d-41d0-9321-976a1b0a4f74/Banner-MC-Pasiones.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-29a9768b-e58d-41d0-9321-976a1b0a4f74-p7nJjc7" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item cloned" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#ffffff;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Plazo Fijo Digital">
+<h2>Conoce el Depósito a Plazo Fijo Digital</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Abre tu Plazo Fijo <b class="negrita">100% digital</b> y empieza a generar intereses de forma segura desde Banistmo App.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/deposito-a-plazo-fijo/plazo-fijo-digital">Descubre más</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/25ba2cc8-6d6a-4ab8-9914-a9cb062be5ab/Banner-HP-DPF.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-25ba2cc8-6d6a-4ab8-9914-a9cb062be5ab-p7nJoI8" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item cloned" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#FFFFFF;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Mastercard Every Day Value">
+<h2 style="font-size: 30px; line-height: 34px;">Todos los días, beneficios con tu tarjeta de débito Mastercard</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Desde el supermercado hasta la salida al cine y mucho más, beneficios con tu <b class="negrita">tarjeta de débito Mastercard</b>.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/campanas/beneficios-mastercard-debito">Descubre más</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/cd1df597-3611-4895-9da9-0323f3cb0c06/Banner-MC-Every-Day.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-cd1df597-3611-4895-9da9-0323f3cb0c06-p7nJuPr" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#ffffff;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Black Week Panamá 2024">
+<h2 dir="ltr">Ahorra en Black Weekend Panamá 2024</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Conoce las promociones en comercios participantes pagando con nuestras tarjetas de crédito y débito.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/campanas/black-week-panama">Descubre más</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/14652e60-1b6e-47f0-945a-d1a7ce203760/Banner-Web-Black-Week-Panama.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-14652e60-1b6e-47f0-945a-d1a7ce203760-p7y12yS" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item active" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#FFFFFF;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Ahorro con proposito">
+<h2>Para cumplir tus metas, ahorrar es el primer paso</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Planifícate y define el plazo que mejor se adapte a ti: 12, 18, 24, 36 o 60 meses. Elige el ritmo hacia tus metas.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/ahorro-con-proposito">Empieza ya</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/2bb3bc56-1645-4858-a497-7bfa6b48ab5a/Banner-Ahorro-Con-Proposito-Web.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-2bb3bc56-1645-4858-a497-7bfa6b48ab5a-p7nJcaL" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#FFFFFF;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Mastercard Pasión">
+<h2>Elige tu pasión, nosotros te haremos disfrutarla</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Tu <b class="negrita">Tarjeta de Crédito Mastercard</b> te lleva a conocer nuevas experiencias.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/campanas/pasion-mastercard">Solicítala aquí</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/29a9768b-e58d-41d0-9321-976a1b0a4f74/Banner-MC-Pasiones.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-29a9768b-e58d-41d0-9321-976a1b0a4f74-p7nJjc7" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#ffffff;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Plazo Fijo Digital">
+<h2>Conoce el Depósito a Plazo Fijo Digital</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Abre tu Plazo Fijo <b class="negrita">100% digital</b> y empieza a generar intereses de forma segura desde Banistmo App.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/deposito-a-plazo-fijo/plazo-fijo-digital">Descubre más</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/25ba2cc8-6d6a-4ab8-9914-a9cb062be5ab/Banner-HP-DPF.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-25ba2cc8-6d6a-4ab8-9914-a9cb062be5ab-p7nJoI8" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#FFFFFF;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Mastercard Every Day Value">
+<h2 style="font-size: 30px; line-height: 34px;">Todos los días, beneficios con tu tarjeta de débito Mastercard</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Desde el supermercado hasta la salida al cine y mucho más, beneficios con tu <b class="negrita">tarjeta de débito Mastercard</b>.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/campanas/beneficios-mastercard-debito">Descubre más</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/cd1df597-3611-4895-9da9-0323f3cb0c06/Banner-MC-Every-Day.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-cd1df597-3611-4895-9da9-0323f3cb0c06-p7nJuPr" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item cloned" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#ffffff;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Black Week Panamá 2024">
+<h2 dir="ltr">Ahorra en Black Weekend Panamá 2024</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Conoce las promociones en comercios participantes pagando con nuestras tarjetas de crédito y débito.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/campanas/black-week-panama">Descubre más</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/14652e60-1b6e-47f0-945a-d1a7ce203760/Banner-Web-Black-Week-Panama.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-14652e60-1b6e-47f0-945a-d1a7ce203760-p7y12yS" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item cloned" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#FFFFFF;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Ahorro con proposito">
+<h2>Para cumplir tus metas, ahorrar es el primer paso</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Planifícate y define el plazo que mejor se adapte a ti: 12, 18, 24, 36 o 60 meses. Elige el ritmo hacia tus metas.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/ahorro-con-proposito">Empieza ya</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/2bb3bc56-1645-4858-a497-7bfa6b48ab5a/Banner-Ahorro-Con-Proposito-Web.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-2bb3bc56-1645-4858-a497-7bfa6b48ab5a-p7nJcaL" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item cloned" style="width: 1140px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#FFFFFF;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Mastercard Pasión">
+<h2>Elige tu pasión, nosotros te haremos disfrutarla</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 22px;">Tu <b class="negrita">Tarjeta de Crédito Mastercard</b> te lleva a conocer nuevas experiencias.</p>
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-primary" href="/wps/portal/banistmo/personas/campanas/pasion-mastercard">Solicítala aquí</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/29a9768b-e58d-41d0-9321-976a1b0a4f74/Banner-MC-Pasiones.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-29a9768b-e58d-41d0-9321-976a1b0a4f74-p7nJjc7" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span class="icon prev left-arrow"><img src="/wps/wcm/connect/www.banistmo.com11237/614a7e56-f9c7-4a0b-9d70-a71b64c95322/chevron-left-solid.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-614a7e56-f9c7-4a0b-9d70-a71b64c95322-oAJArAj" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado"></span></button><button type="button" role="presentation" class="owl-next"><span class="icon next right-arrow"><img src="/wps/wcm/connect/www.banistmo.com11237/b413c8f3-6d04-4a1f-b3c5-f53abeb244e8/chevron-right-solid.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b413c8f3-6d04-4a1f-b3c5-f53abeb244e8-oAJAxv1" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado"></span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+</div>
+</div>
+</div>
+<script>
+    $(document).ready(function(){
+        $('.owl-carousel').owlCarousel({
+            loop : true,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: true,
+            smartSpeed: 1000,
+            nav : true,
+            navText: ['<span class="icon prev left-arrow"><img src="/wps/wcm/connect/www.banistmo.com11237/614a7e56-f9c7-4a0b-9d70-a71b64c95322/chevron-left-solid.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-614a7e56-f9c7-4a0b-9d70-a71b64c95322-oAJArAj" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado" /></span>', '<span class="icon next right-arrow"><img src="/wps/wcm/connect/www.banistmo.com11237/b413c8f3-6d04-4a1f-b3c5-f53abeb244e8/chevron-right-solid.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b413c8f3-6d04-4a1f-b3c5-f53abeb244e8-oAJAxv1" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Home personalizado" /></span>'],
+            responsiveClass : true,
+            responsive : {
+                0 : {
+                    items : 1
+                },
+                992 : {
+                    items : 1
+                }
+            }
+        });
+    });
+</script>
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41NOS6B06IFH8CAB30U6"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style type="text/css">
+
+@media (min-width: 768px){
+div.desktop {
+ display: contents;
+}
+
+}
+
+p {
+    margin: 0 0 0px;
+}
+
+.learn {
+    background: #f4f4f4;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.learn .card {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+border-radius: 16px;
+    border: 1px solid #D9DADD;
+}
+
+</style>
+
+</p><div class="desktop">
+
+<div style="padding-bottom: 25px;"></div>
+
+</div><p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41N83V30Q35Q6ATSO9V0"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style>
+p.cajitas {
+font-size: 14px;
+margin-top: 10px;
+line-height: 18px;
+}    
+p.titulo-h6
+{
+font-family: "CIBFontSans-Bold";
+    font-size: 18px;
+    line-height: 20px;
+    color: #2c2a29;
+}
+
+    .bordesCuadrado {
+        box-shadow: 0px 3px 12px rgb(0 0 0 / 10%);
+background-color: #FFFFFF;
+    }
+
+
+@media (max-width: 768px){
+
+div.desplegar
+
+       {
+display: none;
+      } 
+
+.bordesCuadrado {
+        height: 225px;
+  }
+
+p.cajitas
+{
+text-align:center; 
+     } 
+
+
+p.boton
+
+{
+text-align:center; 
+      } 
+
+p.titulo-h6
+
+{
+text-align:center; 
+      } 
+}
+
+   @media (min-width: 768px) {
+
+.containerAR {
+max-height: 500px;
+height: 470px;
+    }
+
+.bordesCuadrado {
+        height: 350px;
+    }
+       
+div.desplegar
+
+       {
+display: contents;
+      } 
+    
+    }
+
+</style>
+    
+    </p><div class="form-solicitud-personas" style="padding-top: 25px;">
+<div class="container containerAR">
+
+    <div class="col-xs-12 col-sm-12">
+
+<div align="center">       
+ <h3 style="    margin-top: 0px;">
+           Encuentra lo que buscas
+        </h3>
+        <br>
+</div>
+<br>
+    </div>
+
+    <div class="row">
+    
+            <div class="col-xs-6 col-sm-3" style="padding-bottom: 3%;">
+                <div class="bordesCuadrado">
+                    <div class="desplegar">
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="">
+
+                       
+                           <div align="center">  
+<picture>
+<source srcset="/wps/wcm/connect/www.banistmo.com11237/648baa58-49d9-4a07-8a72-0305a403090f/Cuenta-Express-min.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-648baa58-49d9-4a07-8a72-0305a403090f-osk1K28" width="100%" type="image/webp"> 
+<img width="262.5" height="164.93" alt="Cuenta Express" loading="lazy" rel="preload" as="image" fetchpriority="high">
+</picture>
+
+</div>
+                        </a>
+                    </div>
+    
+                    <div style="background-color: white; text-align: left;">
+                           <div class="col-xs-12 col-sm-12">
+<br>
+                            <p class="titulo-h6">Abre tu Cuenta Express</p>
+<p class="cajitas">Sin filas, sin horarios y sin ir al banco. </p>
+
+
+<br>
+
+<div class="desplegar">   
+<br> 
+</div>
+
+
+         
+<p class="boton">
+ <a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="" class="btn btn-primary" id="Cuenta Express">
+               Ábrela aquí
+ 
+      </a>
+</p>
+
+      </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-xs-6 col-sm-3" style="padding-bottom: 3%;">
+                <div class="bordesCuadrado">
+                    <div class="desplegar">
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/galeria-inmobiliaria">
+
+                            <div align="center"> 
+<picture>
+<source srcset="/wps/wcm/connect/www.banistmo.com11237/89bddbae-37a8-4598-9cd6-55fe6e2dfb3b/Hipotecas-min.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-89bddbae-37a8-4598-9cd6-55fe6e2dfb3b-osk1ObB" width="100%" type="image/webp"> 
+<img width="262.5" height="164.93" alt="Galería Inmobiliaria" loading="lazy" rel="preload" as="image" fetchpriority="high">
+</picture>
+
+</div>
+
+                        </a>
+                    </div>
+                    
+                    <div style="background-color: white; text-align: left;">
+                        
+
+<div class="col-xs-12 col-sm-12">
+<br>
+                            <p class="titulo-h6">Galería Inmobiliaria</p>
+<p class="cajitas"> ¿Buscando un hogar? Encuentra el de tus sueños.  </p>
+
+<br>
+
+<p class="boton">    
+ <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/galeria-inmobiliaria" id="Galería Inmobiliaria">
+              Descubre más
+      </a>
+</p>
+
+      </div>
+
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="col-xs-6 col-sm-3" style="padding-bottom: 3%;">
+                <div class="bordesCuadrado">
+                    <div class="desplegar">
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/promociones">
+                      
+<div align="center"> 
+<picture>
+<source srcset="/wps/wcm/connect/www.banistmo.com11237/98013b8c-c78d-447a-af3d-8da2d9ea323e/Promociones-min.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-98013b8c-c78d-447a-af3d-8da2d9ea323e-osk1RWC" width="100%" type="image/webp"> 
+<img width="262.5" height="164.93" alt="Promociones" loading="lazy" rel="preload" as="image" fetchpriority="high">
+</picture>
+</div>
+
+                        </a>
+                    </div>
+                    
+                    <div style="background-color: white; text-align: left; ">
+                      <div class="col-xs-12 col-sm-12">
+<br>
+                            <p class="titulo-h6">Promociones y beneficios</p>
+<p class="cajitas">Conoce las ventajas que tenemos para ti.  </p>
+    
+
+<br>
+
+
+ <p class="boton">                  
+ <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/promociones" id="Promociones">
+              Descubre más
+ 
+      </a>
+</p>
+
+      </div>
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="col-xs-6 col-sm-3" style="padding-bottom: 3%;">
+                <div class="bordesCuadrado">
+                    <div class="desplegar">
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/tarjetas-credito">
+                          
+                          <div align="center"> 
+
+<picture>
+<source srcset="/wps/wcm/connect/www.banistmo.com11237/a3e995f5-7bec-4701-a6d3-daf5aa58048e/TDC-min.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-a3e995f5-7bec-4701-a6d3-daf5aa58048e-osk1UC2" width="100%" type="image/webp"> 
+<img width="262.5" height="164.93" alt="Tarjetas de Crédito" loading="lazy" rel="preload" as="image" fetchpriority="high">
+</picture>
+
+</div>
+                        </a>
+                    </div>
+                    
+                    <div style="background-color: white; text-align: left;">
+                      <div class="col-xs-12 col-sm-12">
+<br>
+                            <p class="titulo-h6">Tarjetas de crédito</p>
+<p class="cajitas">Son la llave para entrar a un mundo de beneficios.</p>
+ 
+<br>
+
+<p class="boton"> 
+ <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/tarjetas-credito" id="Tarjetas de Crédito">
+              Solicítala ya
+ 
+      </a>
+     </p> 
+      </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41NGVVD06M7TFSRI1D43"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel">Banner La Casa de la Plata</span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link href="/wps/wcm/connect/www.banistmo.com11237/1022d7f8-3d5a-4855-95a7-11f3ef8c6ce0/styles-carousel-24_08_2023.min.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-1022d7f8-3d5a-4855-95a7-11f3ef8c6ce0-oHKHUGs" type="text/css" rel="stylesheet">
+
+
+
+<link href="/wps/wcm/connect/www.banistmo.com11237/d99ebf44-b0e4-4d13-a3a6-abb4c84a6ea2/stylesBannerDividido.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-d99ebf44-b0e4-4d13-a3a6-abb4c84a6ea2-nu2ktPp" type="text/css" rel="stylesheet">
+<div class="container" style="padding-top: 25px;padding-bottom: 25px;">
+    
+        <div class="col-sm-6 slideItem">
+    <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/713b6325-b5f5-4418-af92-51f2444d2eab/Banner-LCDP.webp?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-713b6325-b5f5-4418-af92-51f2444d2eab-o-2ppZb" loading="lazy" rel="preload" as="image" fetchpriority="high" alt="Banner La Casa de la Plata">
+</div>
+        <div class="col-sm-6" style="background-color:#ffffff; height:370px">
+    <div class=" txtSlide">
+        <p></p>
+        <h2 class="title-banner-dividido"><style type="text/css">h2.titulo {
+      font-size: 44px; line-height: 48px;
+        }
+
+@media (max-width: 768px) {
+       h2.titulo {
+           font-size: 32px; 
+           line-height: 36px;
+          text-align: center;
+        }
+       }
+</style>
+<div class="banner-slider" dir="ltr" id="La Casa de la Plata">
+<h2 class="titulo">Aprende a manejar mejor tu dinero</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 20px;line-height: 24px;">Ahorrar, controlar tus gastos, gestionar tus deudas es fácil.</p>
+<a class="btn btn-primary" href="/wps/portal/banistmo/personas/aprender-es-facil/la-casa-de-la-plata" style="margin-top:30px;" target="" title="">Entra ya</a></div>
+</h2>
+
+        <p></p>
+
+        
+
+        
+       <div>
+         
+        </div>
+    </div>
+</div>
+
+    
+    
+</div>
+
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41N8NTE0Q7IMFHTKBTC6"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style>
+
+
+@media (min-width: 769px) {
+.mobile {
+    display: none;
+}
+
+.desktop{
+    display: block;
+}
+
+ h1.titulo-principal {
+        margin-left: 45px;
+    }
+
+
+}
+
+
+@media (max-width: 768px){
+.mobile {
+    display: block;
+}
+
+.desktop{
+    display: none;
+}
+
+
+h6.card-descripcion, p.boton
+{
+text-align:center; 
+}
+
+
+
+}
+
+  @media only screen and (max-width: 992px) {
+
+  .image-home-service {
+    height: auto;
+    }
+  }
+
+  .image-home-service {
+    max-width: 720px;
+    max-height: 155px;
+    width: 100%;
+  }
+
+</style> 
+
+</p><div class="form-solicitud-personas" style="padding-top: 25px;padding-bottom: 5px;">
+<div class="container">
+  
+
+  <div class="row">
+
+<div align="center"><h3 style="margin-top: 0px;">Te hacemos la vida más fácil</h3></div>
+<br><br>
+</div>
+
+
+            <div class="row">
+
+   <div class="col-xs-12 col-md-6" style="padding-bottom: 3%;"> 
+
+
+                        <a href="http://tosto.re/banistmoapppersonas">
+                            <div align="center"> 
+
+<img src="/wps/wcm/connect/www.banistmo.com11237/e801e48a-0ecd-48d4-9241-7659aec6c63a/Banistmo-App.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-e801e48a-0ecd-48d4-9241-7659aec6c63a-oBBmPcu" alt="Banistmo App" width="555" height="155" class="image-home-service" title="Banistmo App" loading="lazy" rel="preload" as="image" fetchpriority="high">
+
+</div>
+
+                        </a>
+                   
+
+ <div style="text-align: left;">
+                        
+
+<div class="col-xs-12 col-sm-12" style="background-color: #59CBE8;height:200px">
+<br>
+                            <h6 class="card-descripcion">Banistmo App Personas, soluciones simples para acercarnos más a ti.</h6>
+
+    <br>
+
+<div class="desktop" style="margin-top:20px;"> 
+<br>     
+</div>
+
+     <p class="boton">
+ <a href="http://tosto.re/banistmoapppersonas" class="btn btn-primary" style="background: #333; color: #FFFFFF;" id="Banistmo App">
+              Conoce más
+      </a>
+</p>
+<br>
+      </div>
+
+                    </div>
+
+</div>
+
+
+
+   <div class="col-xs-12 col-md-3" style="padding-bottom: 3%;"> 
+
+
+
+ <div>
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/comercios-autorizados">
+
+                            <div align="center"> 
+<img src="/wps/wcm/connect/www.banistmo.com11237/3ba37531-ac47-4c26-9aae-4fe00512b4f7/CNB.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-3ba37531-ac47-4c26-9aae-4fe00512b4f7-oBBmR-M" alt="Comercios Autorizados" width="262.5" height="155" class="image-home-service" title="Comercios Autorizados" loading="lazy" rel="preload" as="image" fetchpriority="high">
+
+
+</div>
+
+                        </a>
+                
+
+ <div style="text-align: left;">
+                        
+
+<div class="col-xs-12 col-sm-12" style="background-color: #F5B6CD; height:200px">
+<br>
+                            <h6 class="card-descripcion">Conoce las ventajas de los Comercio Autorizado que están cerca de ti.</h6>
+                
+<br>           
+
+<p class="boton">
+ <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/comercios-autorizados" class="btn btn-primary" style="background: #333; color: #FFFFFF;" id="Comercios Autorizados">
+              Conoce más
+      </a>
+</p>
+<br>
+      </div>
+
+                    </div>
+
+</div>
+</div>
+
+
+  <div class="col-xs-12 col-md-3" style="padding-bottom: 3%;"> 
+
+
+ <div>
+                        <a href="https://asegurate.segurossura.com.pa/?codigo=33734" target="_blank">
+                            <div align="center"> 
+
+<img src="/wps/wcm/connect/www.banistmo.com11237/06becc89-bdf8-4ce4-9654-3e7556ce5fec/Seguros.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-06becc89-bdf8-4ce4-9654-3e7556ce5fec-oBBmVDM" alt="Seguros" width="262.5" height="155" class="image-home-service" title="Seguros" loading="lazy" rel="preload" as="image" fetchpriority="high">
+
+</div>
+
+                        </a>
+                   
+
+ <div style="text-align: left;">
+                        
+
+<div class="col-xs-12 col-sm-12" style="background-color: #2EB990; height:200px">
+<br>
+                            <h6 class="card-descripcion">La familia es lo más importante, asegura su futuro con nosotros.</h6>
+  
+<br>
+
+<p class="boton"> 
+ <a href="https://asegurate.segurossura.com.pa/?codigo=33734" class="btn btn-primary" style="background: #333; color: #FFFFFF;" id="Seguros">
+              Conoce más
+ 
+      </a>
+</p>
+
+<br>
+      </div>
+
+                    </div>
+
+</div>
+</div>
+
+
+
+</div>
+
+</div>
+</div><p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41NO8490QLEAGI8QBKI7"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            <link href="/wps/wcm/connect/www.banistmo.com11237/b831385c-7cca-42c9-9973-d731533ef78d/styles-chat.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b831385c-7cca-42c9-9973-d731533ef78d-nnCUOmV" type="text/css" rel="stylesheet">
+    <a href="https://chat.banistmo.com/chat/ChatQuestion.aspx?ModeSource=CHECKSCHEDULE" target="_blank" class="btn-chat">
+    <img src="/wps/wcm/connect/www.banistmo.com11237/787a4ed0-8cd2-4561-9421-1a2ee4e153d2/icono-chat.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-787a4ed0-8cd2-4561-9421-1a2ee4e153d2-oIUYa3x" alt="Chat" rel="preload" as="image" fetchpriority="high" loading="lazy">
+  </a>
+
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41NO8490QLEAGI8QBKI5"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+<div class="learn">
+ <div class="container">
+   <style>
+.learn .card .btn {
+   border: 0px solid #2c2a29;
+}
+</style>
+
+
+    
+        <div class="col-sm-3">
+            <div class="card">
+                <img src="/wps/wcm/connect/www.banistmo.com11237/17d3bb8c-e91a-4048-ad5e-e8c0febfc1f2/Tarifas.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-17d3bb8c-e91a-4048-ad5e-e8c0febfc1f2-oZtOCwZ" alt="" width="134" height="133">
+<div>  
+                <style type="text/css">b.negrita {
+font-family:OpenSans-bold;
+}
+</style>
+<h5 dir="ltr">Tasas de interés de Cuentas</h5>
+
+<p dir="ltr"><b class="negrita">Tarifas</b></p>
+
+<p dir="ltr">Ingresa a nuestro tarifario y conoce más sobre nuestras tasas de interés de cuentas.</p>
+
+</div>
+                <p><a class="btn btn-primary" href="https://www.banistmo.com/wps/wcm/connect/www.banistmo.com11237/81d03b5b-9555-4857-af0e-19e67d0715f7/Tarifario-de-interes-y-montos-minimos-de-apertura-de-depositos.pdf?MOD=AJPERES&amp;CVID=oXv4tLs" role="button">Conoce más</a></p>
+            </div>                    
+        </div>
+    
+
+<style>
+.learn .card .btn {
+   border: 0px solid #2c2a29;
+}
+</style>
+
+
+    
+        <div class="col-sm-3">
+            <div class="card">
+                <img src="/wps/wcm/connect/www.banistmo.com11237/87abf4a0-a3bf-4ca4-a454-7f8dbeaff1f0/Enviar-recibir-QR.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-87abf4a0-a3bf-4ca4-a454-7f8dbeaff1f0-oBArgIP" alt="" width="157" height="128">
+<div>  
+                <style type="text/css">.learn .card .btn {
+    text-transform:initial;
+}
+</style>
+<h5 dir="ltr">Soluciones de pagos</h5>
+
+<p dir="ltr"><b class="negrita">Pagos Banistmo</b></p>
+
+<p dir="ltr" style="margin-bottom:2px;">Si eres una persona o un negocio, mantente al día con los pagos que puedes realizar.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+</div>
+                <p><a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/pagos" role="button">Conoce más</a></p>
+            </div>                    
+        </div>
+    
+
+<style>
+.learn .card .btn {
+   border: 0px solid #2c2a29;
+}
+</style>
+
+
+    
+        <div class="col-sm-3">
+            <div class="card">
+                <img src="/wps/wcm/connect/www.banistmo.com11237/4a43ba0f-3c1e-412d-bf86-f3987f6bab41/Impulsa.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-4a43ba0f-3c1e-412d-bf86-f3987f6bab41-oBArJ50" alt="" width="157" height="128">
+<div>  
+                <style type="text/css">b.negrita {
+
+      font-family: 'CIBFontSans-Bold';
+}
+</style>
+<h5 dir="ltr">Para ti mujer</h5>
+
+<p dir="ltr"><b class="negrita">Impulsa</b></p>
+
+<p dir="ltr" style="margin-bottom:2px;">Aquí puedes compartir, aprender y conectar con otras mujeres.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+</div>
+                <p><a class="btn btn-primary" href="/wps/portal/banistmo/personas/impulsa" role="button">Conoce más</a></p>
+            </div>                    
+        </div>
+    
+
+<style>
+.learn .card .btn {
+   border: 0px solid #2c2a29;
+}
+</style>
+
+
+    
+        <div class="col-sm-3">
+            <div class="card">
+                <img src="/wps/wcm/connect/www.banistmo.com11237/67b5873a-51d0-44e1-ad6c-9e52b3617a5d/il-devices.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-67b5873a-51d0-44e1-ad6c-9e52b3617a5d-oBArLBM" alt="Sácale provecho a tu banco" width="157" height="128" loading="lazy">
+<div>  
+                <h5 dir="ltr">Sácale provecho a tu banco</h5>
+
+<p dir="ltr"><b class="negrita">Aprender es fácil</b></p>
+
+<p dir="ltr" style="margin-bottom:2px;">Queremos acompañarte a la autogestión.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+</div>
+                <p><a class="btn btn-primary" href="/wps/portal/banistmo/personas/aprender-es-facil" role="button">Conoce más</a></p>
+            </div>                    
+        </div>
+    
+
+ </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41NOET20642160TB08G5"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style>
+
+.btn {
+    font-family: 'CIBFontSans-Bold';
+    border-radius: 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.btn-default {
+    color: #333;
+}
+
+    @media only screen and (min-width:1px) and (max-width:767px) {
+    
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala.vista_mobile .bcp_imagen img {
+            height: 48px;
+            width: auto;
+            margin-right: 4px;
+            margin-bottom: 8px;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala.vista_mobile {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    @media only screen and (min-width:1px) {
+
+        .bcp_boton_solicitalo_inferior {
+            position: fixed;
+            width: 100%;
+            z-index: 99;
+            bottom: 0
+        }
+
+        .bcp_boton_solicitalo_inferior.ocultar {
+            z-index: -1;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala {
+           background-color: #FDDA24;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            transition: all .4s ease;
+            border-radius: 8px 8px 0px 0px;
+        }
+
+        
+    }
+
+    @media only screen and (max-width:767px) {
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_btn_solicita {
+            margin: 0px !important;
+            width: 100% !important;
+        }
+    }
+
+
+    @media only screen and (min-width:768px) {
+
+
+        .bcp_boton_solicitalo_inferior {
+            top: calc(100% - 64px);
+            /* z-index: -1; */
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala {
+            width: unset;
+            background: #FDDA24;
+            box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.1);
+            border-radius: 8px 8px 0px 0px;
+            padding-left: 52px;
+            padding-right: 16px;
+            height: max-content;
+            display: flex;
+            align-items: center;
+        }
+
+       
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala p {
+            font-size: 16px;
+            line-height: 20px;
+            color: #2C2A29;
+            text-align: left;
+            margin: 0px;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_imagen,
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_boton,
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala {
+            display: flex;
+            align-items: center;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_imagen,
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala  {
+            justify-content: left;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_boton {
+            justify-content: flex-end;
+        }
+
+        
+
+        .bcp_boton_solicitalo_inferior .icon.bcp-x-f {
+            color: #FF7800;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+      
+    }
+
+    @media only screen and (min-width:1280px) {
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala {
+            padding-left: 52px;
+            padding-top: 16px;
+            padding-bottom: 16px;
+            padding-right: 16px;
+            height: max-content;
+            display: flex;
+            align-items: center;
+        }
+
+
+    }
+
+
+</style>
+
+
+</p><div id="caja-flotante" style="display: none;">
+
+<div class="bcp_boton_solicitalo_inferior" aria-hidden="true">
+         
+         
+        <div class="row visible-xs bcp_flex_solicitala  vista_mobile">
+            <div class="col-xs-17">
+
+                           <a tabindex="-1">
+                             </a><a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="" class="btn btn-default" style="margin:8px; padding: 8px 25px 5px 25px; background:#FFFFFF; border: 0px;">Abre tu Cuenta Express aquí</a>
+                   
+            </div>
+         
+        </div>
+        
+
+        
+        <div class="row hidden-xs bcp_flex_solicitala  vista_desktop">
+  
+   <div class="col-sm-2 bcp_grupo_img_texto"></div>
+            <div class="col-sm-6 bcp_grupo_img_texto">
+                
+           
+                
+
+                <div class="bcp_descripcion">
+                    
+                    <h5>Abre tu Cuenta Express 100% digital, solo necesitas tu cédula y celular.</h5>
+
+                    
+
+                </div>
+
+            </div>
+
+            <div class="col-sm-2">
+                
+             
+                    <div align="center">
+                           <a tabindex="-1">
+                          </a><a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="" class="btn btn-default" style="padding: 8px 25px 5px 25px; margin-top:-3px; background:#FFFFFF; border: 0px;">Conoce más</a>
+                      
+                    </div>
+          
+                
+            </div>
+          
+        </div>
+        
+</div>
+
+ </div>       
+<script>
+
+    window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  if (document.documentElement.scrollTop > 80) {
+    $("#caja-flotante").fadeIn();
+  } else {
+    $("#caja-flotante").fadeOut();
+  }
+}
+
+
+</script>
+    <p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div><div class="component-control id-Z7_2G9I1K41NO8490QLEAGI8QBKA4"><div class="wpthemeHiddenPlus">
+    <section class="ibmPortalControl wpthemeControl wpthemeHiddenPlusControl wpthemeHiddenPlus a11yRegionTarget" role="region">
+        <!-- asa.portlet.id marks the node whose contents are the id of this layout control -->
+        <span style="display:none" class="asa.portlet.id"></span>
+        <div class="wpthemeHiddenPlusControlHeaderParent" hidden="true">
+            <a tabindex="0" title="display menu" onfocus="var currentNode = this; while (currentNode.nodeName.toLowerCase() != 'header') { currentNode = currentNode.nextSibling; } currentNode.style.display='table';"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+            <header class="wpthemeControlHeader wpthemeHiddenPlusControlHeader" role="banner" aria-label="Skin header">
+                <div class="wpthemeInner">
+                    <h2>
+                        <img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        <!-- lm-dynamic-title node marks location for dynamic title support -->
+                        <span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+                    </h2>
+                    <a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+                        <span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                        <span class="wpthemeAltText">Component Action Menu</span>
+                        <!-- start CAM template -->
+                        <span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+                        </ul>
+                        <div class="verticalMenuPointer pointer"></div>
+                </div>
+                <!-- Template for loading -->
+                <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+                <!-- Template for submenu -->
+                <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+                    <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+                        <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                            <li role="menuitem" tabindex="-1"></li>
+                        </ul>
+                    </div>
+                </div>
+                </span>
+                <!-- end CAM template -->
+                </a>
+                <a aria-label="Display portlet menu" aria-haspopup="true" role="button" href="javascript:;" class="wpthemeIcon wpthemeActionDisabled wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onmousemove="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') { i$.removeClass(this,'wpthemeActionDisabled'); this.onmousemove = null; }" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+                    <span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+                    <span class="wpthemeAltText">Display portlet menu</span>
+                </a>
+        </div>
+        </header>
+</div>
+
+<div class="wpthemeControlBody wpthemeHiddenPlusControlBody wpthemeOverflowAuto wpthemeClear">
+    <!-- lm:control dynamic spot injects markup of layout control -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            <style>
+.btn {
+    text-transform:initial;
+}
+
+footer .shortcuts a.btn {
+ text-transform:initial;
+}
+
+  #footer-content .shortcuts {
+      background: #fff;
+      padding: 25px 0 0px 0;
+      text-align: center;
+  }
+  
+  
+  #footer-content .shortcuts .block {
+        padding: 20px;
+  }
+          .wptheme1Col .wpthemeCol, .wpthemeInner {width: 100%;float: inherit !important;margin: inherit;}.wpthemeCol {margin-left: 0px !important;}body .wpthemeOverflowAuto {overflow: unset !important;}body .wpthemeClear {clear: none !important;}.wpthemeControl, .wpthemeRow, .wpthemeLayoutContainers {margin: 0 !important;padding: 0 !important;}
+      </style>
+  <script>
+    $(document).ready(function(){
+      $(window).resize(function() {
+          if ($(window).width() <= 767) {
+            $('footer .check-list').hide();
+            $('.title').on('click', function(e) {
+              e.preventDefault();
+                $(".title").removeClass('active');
+                $(this).addClass('active');
+                  $(this).nextUntil('.active').slideDown('slow');
+                  $(".title").not(".active").nextUntil('.title').slideUp('slow');
+            });
+          }else {
+                $('footer .check-list').show();
+            };
+      });
+    });
+  </script>
+     
+  <footer id="footer-content">
+    <div class="row-fluid shortcuts">
+      <div class="container">
+          <div class="row">
+  
+  <h4>¿Necesitas contactarnos? </h4>
+  
+  <div class="col-sm-1"></div>
+  
+               <div class="col-sm-2 block">
+                <a href="https://api.whatsapp.com/send?phone=50765254700" title="Whataspp" target="_blank"> <img src="/wps/wcm/connect/www.banistmo.com11237/f7d2721f-1e3e-4764-beb7-cd227749233b/WhastApp.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f7d2721f-1e3e-4764-beb7-cd227749233b-oIU.D5B" alt="Ícono Chat" title="Whatsapp" rel="preload" as="image" fetchpriority="high" loading="lazy" width="48" height="48"></a>
+              <div class="txt">
+             <h3 style="margin-top: 0px;">Escríbenos</h3>
+                <p dir="ltr">Al Whatsapp<br><a href="https://api.whatsapp.com/send?phone=50765254700" target="_blank" style="color:#2c2a29;"><u>6525-4700</u></a>.</p>
+              </div>          
+            </div>
+  
+            <div class="col-sm-2 block">
+                <a href="https://chat.banistmo.com/chat/ChatQuestion.aspx?ModeSource=CHECKSCHEDULE" title="Chat en línea"> <img src="/wps/wcm/connect/www.banistmo.com11237/f77e637a-115c-493e-9031-f5bc82db8c06/Chat-en-linea.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f77e637a-115c-493e-9031-f5bc82db8c06-oIV04QC" alt="Ícono Chat" rel="preload" as="image" fetchpriority="high" loading="lazy" title="Chat en línea" width="48" height="48"></a>
+              <div class="txt">
+             <h3 style="margin-top: 0px;">Chat en línea</h3>
+                <p dir="ltr">Déjanos ayudarte a encontrar lo que buscas.</p>
+              </div>          
+            </div>
+  
+            <div class="col-sm-2 block">
+                <a target="_blank" href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-telefonica-personas"><img src="/wps/wcm/connect/www.banistmo.com11237/69233c16-83ee-4391-8cd0-7c02d7a938d0/Llamanos.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-69233c16-83ee-4391-8cd0-7c02d7a938d0-oIV0TSK" alt="Ícono Llámanos" rel="preload" as="image" fetchpriority="high" loading="lazy" title="Llámanos" width="48" height="48"></a>
+              <div class="txt">
+                   <h3 style="margin-top: 0px;">Llámanos</h3>
+                <p dir="ltr">Al <a href="tel:5073064700" style="color:#2c2a29;"><u>306-4700</u></a>. </p>
+              </div>
+            </div>
+            <div class="col-sm-2 block">
+                <a title="Déjanos Llamarte" target="" href="/wps/portal/banistmo/personas/productos-y-servicios/canales/dejanos-llamarte"><img src="/wps/wcm/connect/www.banistmo.com11237/682d4335-5b69-4619-818e-918fa94fde9d/Llamada.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-682d4335-5b69-4619-818e-918fa94fde9d-oIV1ZWk" alt="Ícono Déjanos Llamarte" rel="preload" as="image" fetchpriority="high" loading="lazy" title="Déjanos Llamarte" width="48" height="48"></a>
+              <div class="txt">
+               <h3 style="margin-top: 0px;">Déjanos llamarte</h3>
+                <p dir="ltr">Déjanos tus datos para que te contactemos.</p>
+              </div>
+            </div>
+            <div class="col-sm-2 block last">
+                <a title="Visítanos" target="" href="/wps/portal/banistmo/personas/buscador-sucursales"><img src="/wps/wcm/connect/www.banistmo.com11237/20953d95-d783-4f42-8e26-9252954e138d/Visitanos.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-20953d95-d783-4f42-8e26-9252954e138d-oIV2FDX" rel="preload" as="image" fetchpriority="high" loading="lazy" alt="Ícono Visítanos" title="Visitanos" width="48" height="48"></a>
+              <div class="txt">
+                     <h3 style="margin-top: 0px;">Visítanos</h3>
+                <p dir="ltr">Busca nuestro próximo lugar de encuentro.</p>
+              </div>
+            </div>
+  
+            <div class="col-sm-1"></div>
+  
+  
+  <br><br>
+  <div>
+  <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales-de-atencion" target="_blank" class="btn btn-primary">Otros canales de atención &nbsp; &nbsp;  <img src="/wps/wcm/connect/www.banistmo.com11237/eb4dc497-23f5-46db-ad7a-6d4d9f756736/Mask.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-eb4dc497-23f5-46db-ad7a-6d4d9f756736-oIUXrzX" alt="flecha" width="18" height="17" rel="preload" as="image" fetchpriority="high" loading="lazy" style="height:17px;margin-bottom:5px;"></a>
+  
+  
+  </div>
+  <br><br>
+  
+          </div>
+        </div>
+    </div>
+  
+    <div class="container-fluid links">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-3">
+            <div class="row">
+              <h3 class="title">Comunícate con nosotros</h3>
+              <ul class="check-list" dir="ltr">
+                  <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/canales-de-atencion" target="" title="">Contáctanos</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/trabaja-con-nosotros" target="" title="">Trabaja con nosotros</a></li>
+              </ul>            
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="row">
+              <h3 class="title">Accesos rápidos</h3>
+              <ul class="check-list" dir="ltr">
+                  <li><a href="/wps/portal/banistmo/acerca-de/glosario-de-terminos" target="" title="">Glosario</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad" target="" title="">Sostenibilidad</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/mapa-del-sitio" target="" title="">Mapa del sitio</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/tarifario" target="" title="">Tarifario</a></li>
+                  <li><a href="https://personas.banistmo.com">Transacciones</a></li>
+                  <li><a href="/wps/portal/banistmo/personas/aprender-es-facil" target="" title="">Aprender es fácil</a></li>
+                  <li><a href="/wps/portal/banistmo/personas/impulsa" target="" title="">Impulsa</a></li>
+
+ <li><a href="/wps/portal/banistmo/acerca-de/gestion-2023" target="" title="">Gestión 2023</a></li>
+            
+              </ul>            
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="row">
+              <h3 class="title">Legales</h3>
+              <ul class="check-list" dir="ltr">
+  
+       <li><a href="/wps/portal/banistmo/acerca-de/aviso-de-privacidad" target="" title="">Aviso de privacidad</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/seguridad" target="" title="">Seguridad y privacidad</a></li>
+  
+                  <li><a href="/wps/portal/banistmo/personas/aprender-es-facil/legales/fatca" target="" title="">FATCA &amp; CRS</a></li>
+                  <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/itbms" target="" title="">ITBMS</a></li>
+                  <li><a href="/wps/wcm/connect/www.banistmo.com11237/c4d78b09-894e-4a17-b8c8-624a706daf80/ProhibicionesSuperIntendenciaDeBancosSIB.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-c4d78b09-894e-4a17-b8c8-624a706daf80-noplGiy" download="ProhibicionesSuperIntendenciaDeBancosSIB" target="" title="">Prohibiciones</a></li>
+                  <li><a href="/wps/portal/banistmo/personas/aprender-es-facil/legales/laft" target="" title="">Prevención de lavado de activos</a></li>
+<li><a href="/wps/portal/banistmo/acerca-de/proteccion-de-datos-personales" target="" title="">Protección de datos personales</a></li>
+                 
+                  <li><a href="/wps/portal/banistmo/acerca-de/sala-de-prensa/todos-los-articulos/comunicaciones-corporativas/retencion-de-impuestos-de-inmuebles" target="" title="">Retención impuesto de inmuebles</a></li>
+              </ul>            
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="row social">
+              <h3>Síguenos en redes:</h3>
+              <ul class="networks" dir="ltr">
+                  <li class="facebook"><a href="https://www.facebook.com/Banistmo">Facebook</a></li>
+                  <li class="twitter"><a href="https://twitter.com/banistmo">Twitter</a></li>
+                  <li class="instagram"><a href="https://www.instagram.com/banistmo">Instagram</a></li>
+                  <li class="youtube"><a href="https://www.youtube.com/banistmoPanama">YouTube</a></li>
+                  <li class="linkedin"><a href="https://www.linkedin.com/company/banistmo">LinkedIn</a></li>
+              </ul>
+              <img src="/wps/wcm/connect/www.banistmo.com11237/ffbb836a-cf33-427d-a86c-e3a9081228d9/logo-sbp.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-ffbb836a-cf33-427d-a86c-e3a9081228d9-oDRG79v" alt="Superintendencia de Bancos de Panamá" width="150" height="150">
+            </div>
+          </div>        
+        </div>   
+      </div>
+    </div>
+  
+    <div class="row-fluid copy">
+      <div class="container">
+        <div class="col-sm-5 logo-banistmo-footer-bco">
+          <a href="/wps/portal/banistmo/personas" class="logo-banistmo" title="Banistmo" alt="Banistmo">
+             <img src="/wps/wcm/connect/www.banistmo.com11237/de872b1a-fb3b-4e45-a0f1-7850820269bf/Banistmo.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-de872b1a-fb3b-4e45-a0f1-7850820269bf-oIUUYzb" alt="" width="155" height="26">
+          </a>
+        </div>
+        <div class="col-sm-7">
+          <p dir="ltr" style="color: #FFFFFF;">Copyright © 2024 Banistmo</p>
+          <a href="https://www.grupobancolombia.com/personas" title="Grupo Bancolombia" target="_blank" alt="Grupo Bancolombia" class="logo-bancolombia">
+             <img src="/wps/wcm/connect/www.banistmo.com11237/144957fa-bd42-441e-a29b-ef21e673b9a9/Grupo-Bancolombia-Logo.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-144957fa-bd42-441e-a29b-ef21e673b9a9-oIUVoDY" alt="" width="128" height="30">
+          </a>
+        </div>            
+      </div> 
+    </div>
+  
+  </footer>
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+</div>
+</section>
+</div>
+</div></div></div>
+<div class="wpthemeClear"></div>
+      </div>
+    </div>
+  </div>
+
+  <!--end main content-->
+
+  <!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+        This is located here instead of the head section to improve client performance. -->
+  <div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" tabindex="-1" aria-labelledby="wpthemeComplementaryContentText">
+    <span class="wpthemeAltText" id="wpthemeComplementaryContentText"></span>
+    <script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1722139345720&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"custom.portal.theme.BanistmoPersonas","themeRootURI":"/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/dav/fs-type1/themes/BanistmoPersonas","themeWebAppBaseURI":"/wps/defaultTheme85/themes/html/dynamicSpots","themeWebDAVBaseURI":"dav:fs-type1/themes/BanistmoPersonas/","modulesWebAppBaseURI":"/wps/themeModules","commonResourcesRootURI":"/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Accede a tu Banca en Línea - Banistmo Panamá","currentContentNodeOID":"Z6_2G9I1K41NO8490QLEAGI8QBKK7","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":["system/WebContentCategory.json,label:shelf_socialCategory"],"styleSources":[],"layoutSources":["system/BootstrapLayouts.json","dav:fs-type1/system/layouts.json"]},"portalConfig":{"locale":"es","portalURI":"/wps/portal","contentHandlerURI":"/wps/contenthandler/!ut/p/digest!0RTeJE6kubr_GGRSDK8lHA/","pocURI":"/wps/portal/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":true,"canImpersonate":false,"themeRootURI":"/wps/defaultTheme85/themes/html/dynamicSpots","parentPageID":"Z6_38G2HA80N87M00AB62GT7520B5","currentPageOID":"Z6_2G9I1K41NO8490QLEAGI8QBKK7","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_2G9I1K41NO8490QLEAGI8QBKK7&#034;&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_2G9I1K41NO8490QLEAGI8QBKK7&#034;/&gt;&lt;mapping src=&#034;Z6_2G9I1K41NO8490QLEAGI8QBKK7&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_38G2HA80N87M00AB62GT7520B5&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_dynamicContentSpots_85":"0.0","wp_dialog_draggable":"0.0","wp_hiddenpages":"0.0","wp_simple_contextmenu_ext":"0.0","wp_simple_contextmenu_js":"0.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_portlet_css":"0.0","wp_theme_utils":"0.0","wp_toolbar_menuactions":"0.0","wp_toolbar_host_view":"0.0","wp_hiddencontent":"0.0","wp_portal":"0.0","photon.dom":"1.0","wp_photon_dom":"0.0","wp_toolbar_sitepreview":"0.0","highContrast":"1.0","bco_personas_css":"1.0","wp_client_tracing":"0.0","modules":"0.1","hasBaseURL":"true","oneUI":"3.0.3","wp_state_page_modes":"0.0","bco_header_css":"1.0","wp_toolbar_common_actionbar":"0.0","wp_client_main":"0.0","wp_toolbar_viewframe_validator":"0.0","wp_high_contrast":"0.0","wp_mark_cookiePopUp":"0.0.1","wp_toolbar_actionbar":"0.0","simple-contextmenu":"1.1","css_wcm_custom":"0.0","wp_dialog_css":"0.0","bco_jquery_js":"1.0","wp_client_logging":"0.0","wp_state_page":"0.0","wp_toolbar_common":"0.0","bco_transversal_css":"1.0","wp_theme_portal_edit_85":"0.0","wp_toolbar_projectmenu":"0.0","wp_dialog_main":"0.0","bco_transversal_js":"1.0","wp_simple_contextmenu_main":"0.0","wp_one_ui":"3.0.3","bco_fonts":"1.0","wp_toolbar_moremenu":"0.0","wp_custom_page_style":"0.0","wp_toolbar_contextmenu":"0.0","wp_searchbar":"0.0","wp_toolbar_informationmode":"0.0","wp_client_ext":"0.0","wp_simple_contextmenu_css":"0.0","wp_toolbar85":"0.0","wp_BanistmoDynTheme":"0.0","wp_modules":"0.0","wp_analytics_aggregator":"0.0","toolbar":"8.5","wp_dialog_util":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_a11y":"0.0","wp_one_ui_303":"0.0","analytics_aggregator":"8.0","wp_theme_portal_85":"0.0","wp_simple_contextmenu_templates":"0.0","wp_toolbar_logo":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1719540331493&amp;entry=bco_transversal_js__1.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_high_contrast__0.0%3Aconfig_js&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/wps/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1722139346000&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_ic4_wai_resources__0.0%3Aconfig_js&amp;entry=wp_skin_cam__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;deferred=true" style="display:none"> Deferred Modules </a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><!-- PopUp -->
+<div class="cookie-container" id="cookie-container">
+  <div id="cookie-close-btn" class="cookie-close-btn" onclick="closeTerminos()">
+    <img class="img-close-btn" src="https://www.banistmo.com/wps/wcm/connect/www.banistmo.com11237/555f45a3-5ac5-47b9-891b-352c053c59c1/close.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-555f45a3-5ac5-47b9-891b-352c053c59c1-oql6QFz" alt="Cerrar" width="10" height="10" loading="lazy"> 
+  </div>
+
+  <div class="row-cookie-container">
+    <div class="col col-lg-12 aviso-cookie">
+      <h3>Aviso de Privacidad</h3>
+      <p>
+        En Banistmo S.A contamos con un Aviso de Privacidad, ingresa
+        <a href="/wps/portal/banistmo/acerca-de/aviso-de-privacidad" target="_blank"><strong><u>aquí</u></strong></a>
+        para conocerlo.
+      </p>
+    </div>
+    <div class="col col-lg-3 cookie-btn">
+      <button class="btn-aceptar-cookies" id="btn-aceptar-cookies" onclick="aceptaTerminos()">
+        <strong>Entendido</strong>
+      </button>
+    </div>
+  </div>
+</div>
+<div class="fondo-aviso-cookies" id="fondo-aviso-cookies"></div>
+<!-- End PopUp -->
+<script>
+
+  const closeTerminos = () => {
+    const cookieContainer = document.getElementById("cookie-container");
+    const fondoAvisoCookies = document.getElementById("fondo-aviso-cookies");
+  
+    fondoAvisoCookies.classList.remove("active");
+    cookieContainer.classList.remove("active");    
+  };
+
+  const aceptaTerminos = () => {
+    
+    const cookieContainer = document.getElementById("cookie-container");
+    const fondoAvisoCookies = document.getElementById("fondo-aviso-cookies");
+
+    if (cookieContainer) {
+      cookieContainer.classList.remove("active");
+    }
+    if (cookieContainer) {
+      fondoAvisoCookies.classList.remove("active");
+    }
+    if (dataLayer) {
+      dataLayer.push({ event: "cookies-aceptadas" });
+    }
+
+    localStorage.setItem("cookieBannerDisplayed", "true");    
+  };
+  
+</script><a rel="alternate" id="config_markup_deferred" href="/wps/contenthandler/!ut/p/digest!rsdgijjKccf50OAGRo1kgA/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;entry=wp_skin_cam__0.0%3Aconfig_markup&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"> Deferred Modules </a><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1674171396000&amp;entry=wp_one_ui_303__0.0%3Aconfig_js"></script></div><iframe id="_hjSafeContext_90910844" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><link rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/personas" hreflang="es-pa">
+<script type="text/javascript" id="" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script><script type="text/javascript" id="">var g_ED={email:'[name\x3d"inputCorreoElectronico"]',phone_number:'[name\x3d"inputTelCelular"]'},g_countrycode="",g_country="Panama";window.enhanced_conversion_data=window.enhanced_conversion_data||{};document.addEventListener("input",g_save_toLocalStorage);function g_save_toLocalStorage(a){a=a.target;for(i in g_ED)a.matches(g_ED[i])&&(localStorage["g_"+i]=a.value);g_setup_Enhanced_Conversion_Data()}
+function g_setup_Enhanced_Conversion_Data(){for(i in g_ED)localStorage["g_"+i]&&("email"==i&&g_validateEmail(localStorage["g_"+i])&&(window.enhanced_conversion_data[i]=localStorage["g_"+i]),"phone_number"==i&&window.enhanced_conversion_data.email&&(window.enhanced_conversion_data[i]=g_countrycode+localStorage["g_"+i],window.enhanced_conversion_data[i]=window.enhanced_conversion_data[i].replace(/\D/g,"")))}function g_validateEmail(a){return/\S+@\S+\.\S+/.test(a)}g_setup_Enhanced_Conversion_Data();</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1638640773132669");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1638640773132669&amp;ev=PageView&amp;noscript=1"></noscript>
+<iframe allow="join-ad-interest-group" data-tagging-id="G-D4YYWT809S" data-load-time="1726345005402" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-D4YYWT809S&amp;gacid=1145218738.1726345005&amp;gtm=45je4990v895594299z877639592za200zb77639592&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=0&amp;z=332688660" style="display: none; visibility: hidden;"></iframe>
+
+
+
+
+</body></html>
